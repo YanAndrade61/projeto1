@@ -1,4 +1,4 @@
 First test of git on ubuntu
 Uma nova atualizacao do projeto
 ELe reconhece?
-Testando
+Testando uma funcao nova
